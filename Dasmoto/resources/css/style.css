@@ -1,0 +1,29 @@
+/*Common Elements*/
+
+body {font-family: Helvetica;}
+
+h1,h2,.price {font-weight: bold}
+
+h2 {
+    font-size: 32px;
+    color: white;
+}
+
+.price { color: blue;}
+
+/*Header*/
+header {background: url('/resources/css/pattern.jpeg')}
+
+#heading {
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+}
+
+/*Body*/
+
+#brushes h2 {background: mediumspringgreen;}
+
+#frames h2 {background: lightcoral;}
+
+#paint h2 {background: skyblue;}
